@@ -25,7 +25,7 @@
 ## UnPacking Activity :
 ##### • In case of UnPacking activity we accept packed file name from user. 
 ##### • for authentication of packed file use any logic like Magic Number. 
-##### • Open the packed file in read mode and perform below activity as 
+##### • Open the packed file in read mode and perform below activity as :
 ##### 1. Read header 
 ##### 2. From the name specified in header create new file. 
 ##### 3. Write data into newly created file from packed file. 
